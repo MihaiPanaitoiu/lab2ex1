@@ -13,7 +13,7 @@ namespace lab2ex1
 
             Console.WriteLine("Numarul n este: ");
             int n = int.Parse(Console.ReadLine());
-            int sum = 0;
+            int sum;
 
             while (n > 0)
             {
